@@ -1,0 +1,1 @@
+Este GitHub pertenece al grupo 3 del curso de Reconocimiento de Patrones
